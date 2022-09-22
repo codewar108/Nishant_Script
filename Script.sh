@@ -13,3 +13,5 @@ echo "Manager=$aa"  #AA
 echo "Sr.Principle Engg=$rr" #RR
 echo "Principle Engg=$Rr" #RRR
 echo "Associate Engg=$nn" #NN
+
+swapoff -a && swapon -a
